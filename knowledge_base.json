@@ -1,0 +1,2644 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What is the largest planet in the solar system?",
+      "answer": "The largest planet in the solar system is Jupiter."
+    },
+    {
+      "question": "hello",
+      "answer": "hello there"
+    },
+    {
+      "question": "how are you",
+      "answer": "i am an ai so i did not have feeling"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "The capital of Italy is Rome."
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answer": "William Shakespeare wrote 'Romeo and Juliet'."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100 degrees Celsius (212 degrees Fahrenheit) at sea level."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese yen."
+    },
+    {
+      "question": "What year did the Titanic sink?",
+      "answer": "The Titanic sank on April 15, 1912."
+    },
+    {
+      "question": "Who is the current president of the United States?",
+      "answer": "As of 2024, the current president of the United States is [insert current president's name]."
+    },
+    {
+      "question": "What is climate change?",
+      "answer": "Climate change refers to long-term shifts in temperature, precipitation, and other atmospheric conditions on Earth, often resulting from human activities such as burning fossil fuels and deforestation."
+    },
+    {
+      "question": "What are greenhouse gases?",
+      "answer": "Greenhouse gases are gases in the Earth's atmosphere that trap heat, causing the greenhouse effect. Common greenhouse gases include carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O)."
+    },
+    {
+      "question": "What is renewable energy?",
+      "answer": "Renewable energy is energy obtained from natural resources that are replenished at a sustainable rate, such as sunlight, wind, rain, tides, and geothermal heat."
+    },
+    {
+      "question": "How does recycling help the environment?",
+      "answer": "Recycling helps reduce the amount of waste sent to landfills, conserves natural resources, saves energy, and decreases pollution by reducing the need to extract and process raw materials."
+    },
+    {
+      "question": "What is deforestation?",
+      "answer": "Deforestation is the clearing, removal, or destruction of forests, primarily for agricultural expansion, logging, urban development, and infrastructure projects. It contributes to habitat loss, biodiversity decline, and climate change."
+    },
+    {
+      "question": "What are the effects of air pollution?",
+      "answer": "Air pollution can cause a range of health problems, including respiratory diseases, cardiovascular issues, and neurological disorders. It also contributes to environmental degradation, such as acid rain, smog, and climate change."
+    },
+    {
+      "question": "How does ocean acidification occur?",
+      "answer": "Ocean acidification occurs when carbon dioxide (CO2) from the atmosphere dissolves in seawater, forming carbonic acid. This lowers the pH of the ocean, making it more acidic, which can harm marine life, particularly organisms with calcium carbonate shells."
+    },
+    {
+      "question": "What is sustainable development?",
+      "answer": "Sustainable development aims to meet the needs of the present without compromising the ability of future generations to meet their own needs. It involves balancing economic growth, social equity, and environmental protection."
+    },
+    {
+      "question": "Why is education important?",
+      "answer": "Education is important because it empowers individuals with knowledge, skills, and critical thinking abilities necessary to succeed in life. It promotes personal development, economic growth, and social progress."
+    },
+    {
+      "question": "What are the benefits of education?",
+      "answer": "Education provides numerous benefits, including improved employment opportunities, higher income potential, better health outcomes, enhanced social mobility, and greater civic engagement."
+    },
+    {
+      "question": "How does education contribute to economic growth?",
+      "answer": "Education fosters innovation, productivity, and entrepreneurship, which are essential drivers of economic growth. It enhances human capital, attracts investments, and reduces poverty by enabling individuals to access better job opportunities."
+    },
+    {
+      "question": "What is the role of education in reducing inequality?",
+      "answer": "Education serves as a powerful tool for reducing inequality by promoting equal access to opportunities and resources. It empowers marginalized groups, promotes social mobility, and narrows socioeconomic disparities by providing pathways to success."
+    },
+    {
+      "question": "How does education improve health outcomes?",
+      "answer": "Education is strongly correlated with better health outcomes. It equips individuals with health literacy skills, encourages healthy behaviors, and enables access to healthcare services. Educated individuals are more likely to adopt preventive measures and make informed decisions about their health."
+    },
+    {
+      "question": "What is the impact of education on social development?",
+      "answer": "Education fosters social cohesion, tolerance, and cultural understanding by promoting empathy, respect for diversity, and critical thinking skills. It empowers individuals to participate actively in democratic processes, advocate for human rights, and contribute positively to their communities."
+    },
+    {
+      "question": "How does education contribute to sustainable development?",
+      "answer": "Education plays a critical role in achieving sustainable development goals by raising awareness about environmental issues, promoting sustainable lifestyles, and fostering environmental stewardship. It equips future generations with the knowledge and skills needed to address global challenges and build a more sustainable future."
+    },
+    {
+      "question": "What is the importance of lifelong learning?",
+      "answer": "Lifelong learning is essential for personal growth, adaptability, and continuous skill development in a rapidly changing world. It enables individuals to stay relevant in the workforce, pursue new interests, and contribute to society throughout their lives."
+    },
+    {
+      "question": "How does education empower individuals?",
+      "answer": "Education empowers individuals by equipping them with knowledge, skills, and confidence to pursue their goals and aspirations."
+    },
+    {
+      "question": "What role does education play in promoting gender equality?",
+      "answer": "Education promotes gender equality by providing girls and women with equal access to learning opportunities, challenging gender stereotypes, and empowering them to participate fully in social, economic, and political life."
+    },
+    {
+      "question": "Why is early childhood education important?",
+      "answer": "Early childhood education is important because it lays the foundation for lifelong learning, cognitive development, and socialization. It has a lasting impact on a child's academic success and overall well-being."
+    },
+    {
+      "question": "How does education foster innovation and creativity?",
+      "answer": "Education fosters innovation and creativity by encouraging critical thinking, problem-solving skills, and curiosity. It provides opportunities for experimentation, exploration, and collaboration, driving technological advancements and societal progress."
+    },
+    {
+      "question": "What is the significance of inclusive education?",
+      "answer": "Inclusive education ensures that all learners, regardless of their backgrounds, abilities, or disabilities, have access to quality education and receive appropriate support to reach their full potential. It promotes diversity, equity, and social cohesion."
+    },
+    {
+      "question": "How does education contribute to peace-building and conflict resolution?",
+      "answer": "Education promotes peace-building and conflict resolution by fostering understanding, tolerance, and respect for diversity. It encourages dialogue, reconciliation, and the peaceful resolution of disputes, reducing violence and promoting social harmony."
+    },
+    {
+      "question": "What are the economic benefits of investing in education?",
+      "answer": "Investing in education yields significant economic returns by increasing productivity, driving innovation, and reducing poverty. It stimulates economic growth, creates job opportunities, and strengthens global competitiveness."
+    },
+    {
+      "question": "How does education promote environmental sustainability?",
+      "answer": "Education promotes environmental sustainability by raising awareness about environmental issues, fostering eco-friendly behaviors, and promoting sustainable development practices. It empowers individuals to become responsible stewards of the environment."
+    },
+    {
+      "question": "What are the long-term effects of quality education on society?",
+      "answer": "Quality education has long-term effects on society, including higher levels of human capital, improved public health, reduced crime rates, and greater social cohesion. It contributes to overall prosperity and well-being."
+    },
+    {
+      "question": "What challenges hinder access to education globally?",
+      "answer": "Several challenges hinder access to education globally, including poverty, gender inequality, lack of infrastructure, armed conflict, displacement, discrimination, and cultural barriers. Addressing these challenges is essential for achieving universal education."
+    },
+    {
+      "question": "How can technology enhance education?",
+      "answer": "Technology can enhance education by expanding access to learning resources, facilitating personalized learning experiences, promoting interactive and engaging teaching methods, and connecting learners across geographical boundaries. It has the potential to revolutionize education and improve learning outcomes."
+    },
+    {
+      "question": "What are the ethical responsibilities of educators?",
+      "answer": "Educators have ethical responsibilities to promote integrity, fairness, respect, and social justice in their teaching practices. They must create inclusive and supportive learning environments, uphold academic honesty, and advocate for the well-being of their students."
+    },
+    {
+      "question": "How does education contribute to cultural preservation and heritage?",
+      "answer": "Education contributes to cultural preservation and heritage by transmitting knowledge, traditions, languages, and values from one generation to another. It fosters appreciation for cultural diversity and promotes intercultural dialogue and understanding."
+    },
+    {
+      "question": "What is the role of education in fostering global citizenship?",
+      "answer": "Education plays a crucial role in fostering global citizenship by promoting awareness of global issues, encouraging civic engagement, and fostering a sense of responsibility towards humanity and the planet. It prepares individuals to contribute positively to a interconnected world."
+    },
+    {
+      "question": "How does education empower marginalized communities?",
+      "answer": "Education empowers marginalized communities by providing them with opportunities for social mobility, economic empowerment, and political participation. It promotes social inclusion and addresses systemic inequalities."
+    },
+    {
+      "question": "What are the implications of digital literacy in education?",
+      "answer": "Digital literacy in education has profound implications for teaching and learning in the digital age. It enables learners to navigate, evaluate, and create digital content responsibly, enhancing their communication skills and critical thinking abilities."
+    },
+    {
+      "question": "How does education promote mental health and well-being?",
+      "answer": "Education promotes mental health and well-being by providing social support networks, promoting resilience, and equipping individuals with coping skills and emotional intelligence. It fosters a sense of purpose, belonging, and self-confidence."
+    },
+    {
+      "question": "What are the social and economic impacts of education on women and girls?",
+      "answer": "Education has transformative social and economic impacts on women and girls, including improved health outcomes, increased economic opportunities, reduced child marriage and fertility rates, and greater participation in decision-making processes."
+    },
+    {
+      "question": "How does education prepare individuals for the workforce?",
+      "answer": "Education prepares individuals for the workforce by imparting relevant knowledge, skills, and competencies demanded by employers. It enhances employability, facilitates career advancement, and promotes lifelong learning."
+    },
+    {
+      "question": "What is the role of parental involvement in education?",
+      "answer": "Parental involvement in education is essential for supporting children's learning and academic success. It fosters positive relationships between home and school, reinforces learning outside the classroom, and promotes a culture of lifelong learning."
+    },
+    {
+      "question": "How does education promote democracy and good governance?",
+      "answer": "Education promotes democracy and good governance by empowering citizens with civic knowledge, critical thinking skills, and the ability to participate effectively in democratic processes. It strengthens institutions, promotes transparency, and fosters accountability."
+    },
+    {
+      "question": "What are the benefits of multicultural education?",
+      "answer": "Multicultural education promotes respect for diversity, equity, and social justice by incorporating diverse perspectives, histories, and cultures into the curriculum. It prepares students to thrive in multicultural societies and work effectively in diverse environments."
+    },
+    {
+      "question": "What is the impact of education on crime reduction?",
+      "answer": "Education has a significant impact on crime reduction by providing individuals with alternative opportunities, social support networks, and pro-social values. It reduces the likelihood of involvement in criminal activities and promotes community safety."
+    },
+    {
+      "question": "How does education empower individuals with disabilities?",
+      "answer": "Education empowers individuals with disabilities by promoting inclusive practices, providing accommodations and support services, and fostering self-advocacy and independence. It enhances their quality of life and enables them to participate fully in society."
+    },
+    {
+      "question": "What are the environmental benefits of environmental education?",
+      "answer": "Environmental education promotes environmental stewardship, sustainability, and conservation by raising awareness about environmental issues, fostering a sense of responsibility towards nature, and promoting eco-friendly behaviors."
+    },
+    {
+      "question": "How does education promote social justice and equity?",
+      "answer": "Education promotes social justice and equity by challenging systemic inequalities, addressing discrimination and prejudice, and advocating for the rights and dignity of all individuals. It fosters inclusive and equitable societies."
+    },
+    {
+      "question": "What are the cultural implications of education?",
+      "answer": "Education influences cultural identity, values, and traditions by shaping individuals' perspectives, beliefs, and behaviors. It plays a key role in preserving cultural heritage, promoting cultural diversity, and fostering intercultural understanding."
+    },
+    {
+      "question": "How does education contribute to personal fulfillment and happiness?",
+      "answer": "Education contributes to personal fulfillment and happiness by fostering self-discovery, intellectual growth, and meaningful relationships. It enables individuals to pursue their passions, achieve their goals, and lead fulfilling lives."
+    },
+    {
+      "question": "What are the global challenges that education can address?",
+      "answer": "Education can address a range of global challenges, including poverty, inequality, environmental degradation, conflict, disease, and social injustice. It is a powerful tool for sustainable development and positive social change."
+    },
+    {
+      "question": "How does education promote human rights and dignity?",
+      "answer": "Education promotes human rights and dignity by empowering individuals with knowledge, skills, and values to assert their rights, challenge injustices, and advocate for equality and social justice. It promotes respect for human dignity and diversity."
+    },
+    {
+      "question": "What are the implications of education on intergenerational mobility?",
+      "answer": "Education has profound implications for intergenerational mobility by breaking the cycle of poverty, providing opportunities for upward social mobility, and promoting equal access to education across generations."
+    },
+    {
+      "question": "How does education contribute to cultural innovation and creativity?",
+      "answer": "Education fosters cultural innovation and creativity by nurturing artistic expression, critical thinking, and cultural appreciation. It encourages the exploration of diverse perspectives, traditions, and artistic forms."
+    },
+    {
+      "question": "What are the implications of education on health equity?",
+      "answer": "Education is closely linked to health equity by promoting access to healthcare services, healthy lifestyles, and health literacy. It addresses social determinants of health and reduces disparities in health outcomes."
+    },
+    {
+      "question": "How does education promote social cohesion and community resilience?",
+      "answer": "Education promotes social cohesion and community resilience by fostering a sense of belonging, shared identity, and mutual support. It strengthens social networks, promotes trust, and enables communities to adapt to challenges."
+    },
+    {
+      "question": "What are the implications of education on economic inequality?",
+      "answer": "Education can either exacerbate or reduce economic inequality depending on factors such as access to quality education, educational attainment, and socioeconomic background. Investing in education is essential for reducing economic disparities and promoting inclusive growth."
+    },
+    {
+      "question": "How does education promote environmental justice?",
+      "answer": "Education promotes environmental justice by raising awareness about environmental injustices, advocating for equitable distribution of environmental benefits and burdens, and empowering marginalized communities to participate in decision-making processes."
+    },
+    {
+      "question": "What are the implications of education on social mobility?",
+      "answer": "Education has profound implications for social mobility by providing individuals with opportunities for upward mobility, access to better jobs, and improved social and economic outcomes. It is a key driver of social progress and economic development."
+    },
+    {
+      "question": "How does education contribute to community development?",
+      "answer": "Education contributes to community development by fostering human capital, social capital, and cultural capital within communities. It promotes civic engagement, local empowerment, and sustainable development."
+    },
+    {
+      "question": "What is the role of education in fostering resilience to global challenges?",
+      "answer": "Education plays a critical role in fostering resilience to global challenges by empowering individuals and communities with knowledge, skills, and resources to adapt, innovate, and overcome adversity. It promotes preparedness, risk reduction, and sustainable development."
+    },
+    {
+      "question": "How does education promote intercultural understanding and peace?",
+      "answer": "Education promotes intercultural understanding and peace by fostering empathy, respect for diversity, and dialogue among different cultural, religious, and ethnic groups. It cultivates attitudes and values conducive to peaceful coexistence and conflict resolution."
+    },
+    {
+      "question": "What are the implications of education on social cohesion?",
+      "answer": "Education is closely linked to social cohesion by promoting shared values, civic engagement, and a sense of belonging within societies. It strengthens social bonds, reduces social tensions, and promotes inclusive development."
+    },
+    {
+      "question": "How does education contribute to sustainable consumption and production?",
+      "answer": "Education contributes to sustainable consumption and production by promoting awareness about resource conservation, waste reduction, and environmentally-friendly lifestyles. It fosters responsible consumer behavior and encourages sustainable practices."
+    },
+    {
+      "question": "What are the implications of education on democratic governance?",
+      "answer": "Education is essential for democratic governance by promoting informed citizenship, active participation, and accountability. It fosters a culture of democracy, strengthens democratic institutions, and ensures responsive and inclusive governance."
+    },
+    {
+      "question": "How does education promote resilience to natural disasters?",
+      "answer": "Education promotes resilience to natural disasters by raising awareness, providing disaster preparedness training, and fostering community participation in disaster risk reduction efforts. It empowers individuals and communities to mitigate risks and respond effectively to emergencies."
+    },
+    {
+      "question": "What are the implications of education on mental health stigma?",
+      "answer": "Education can reduce mental health stigma by promoting awareness, understanding, and empathy towards individuals with mental health conditions. It challenges stereotypes, fosters supportive environments, and encourages help-seeking behaviors."
+    },
+    {
+      "question": "How does education contribute to cultural diversity?",
+      "answer": "Education contributes to cultural diversity by celebrating multiculturalism, promoting intercultural exchange, and preserving indigenous knowledge and languages. It enriches society by fostering respect for diverse cultural expressions and heritage."
+    },
+    {
+      "question": "What is the role of education in promoting social justice?",
+      "answer": "Education plays a crucial role in promoting social justice by addressing systemic inequalities, advocating for human rights, and empowering marginalized groups. It promotes equal opportunities, fairness, and dignity for all individuals."
+    },
+    {
+      "question": "How does education promote sustainable development?",
+      "answer": "Education promotes sustainable development by fostering knowledge, values, and skills needed to address global challenges such as poverty, inequality, and environmental degradation. It empowers individuals and communities to create a more just, equitable, and sustainable world."
+    },
+    {
+      "question": "What are the implications of education on peacebuilding?",
+      "answer": "Education is essential for peacebuilding by promoting understanding, tolerance, and reconciliation among conflicting parties. It addresses root causes of conflict, fosters intergroup dialogue, and builds a culture of peace and nonviolence."
+    },
+    {
+      "question": "How does education empower indigenous communities?",
+      "answer": "Education empowers indigenous communities by promoting cultural revitalization, language preservation, and self-determination. It provides opportunities for indigenous knowledge transmission, community development, and advocacy for indigenous rights."
+    },
+    {
+      "question": "What is the role of education in fostering social innovation?",
+      "answer": "Education plays a crucial role in fostering social innovation by nurturing creativity, problem-solving skills, and entrepreneurial mindset. It empowers individuals to develop innovative solutions to social challenges and create positive social change."
+    },
+    {
+      "question": "How does education contribute to environmental conservation?",
+      "answer": "Education contributes to environmental conservation by promoting awareness, instilling environmental values, and fostering sustainable behaviors. It empowers individuals to make informed decisions and take action to protect the environment."
+    },
+    {
+      "question": "What are the implications of education on human development?",
+      "answer": "Education has profound implications for human development by promoting health, well-being, and prosperity. It enhances cognitive abilities, social skills, and economic opportunities, enabling individuals to fulfill their potential and contribute to society."
+    },
+    {
+      "question": "How does education promote social cohesion in multicultural societies?",
+      "answer": "Education promotes social cohesion in multicultural societies by fostering intercultural understanding, respect for diversity, and inclusive citizenship. It creates opportunities for dialogue, cooperation, and shared identity formation."
+    },
+    {
+      "question": "What are the implications of education on social justice and equity?",
+      "answer": "Education promotes social justice and equity by providing equal access to learning opportunities, challenging discriminatory practices, and empowering marginalized groups. It fosters inclusive societies where all individuals have the chance to thrive."
+    },
+    {
+      "question": "How does education contribute to poverty reduction?",
+      "answer": "Education contributes to poverty reduction by empowering individuals with knowledge, skills, and opportunities to escape poverty. It increases earning potential, improves health outcomes, and fosters economic growth and social mobility."
+    },
+    {
+      "question": "What is the role of education in promoting cultural heritage preservation?",
+      "answer": "Education plays a vital role in promoting cultural heritage preservation by raising awareness, fostering appreciation, and transmitting traditional knowledge and practices to future generations. It ensures the continuity and vitality of cultural heritage."
+    },
+    {
+      "question": "How does education promote social inclusion?",
+      "answer": "Education promotes social inclusion by providing equal opportunities for learning and participation, regardless of socio-economic background, ethnicity, gender, or ability. It fosters a sense of belonging and reduces barriers to social mobility."
+    },
+    {
+      "question": "What are the implications of education on environmental justice?",
+      "answer": "Education promotes environmental justice by raising awareness about environmental injustices, advocating for equitable distribution of environmental benefits and burdens, and empowering marginalized communities to participate in decision-making processes."
+    },
+    {
+      "question": "How does education empower individuals with disabilities?",
+      "answer": "Education empowers individuals with disabilities by promoting inclusive practices, providing accommodations and support services, and fostering self-advocacy and independence. It enhances their quality of life and enables them to participate fully in society."
+    },
+    {
+      "question": "What are the environmental benefits of environmental education?",
+      "answer": "Environmental education promotes environmental stewardship, sustainability, and conservation by raising awareness about environmental issues, fostering a sense of responsibility towards nature, and promoting eco-friendly behaviors."
+    },
+    {
+      "question": "How does education promote social justice and equity?",
+      "answer": "Education promotes social justice and equity by challenging systemic inequalities, addressing discrimination and prejudice, and advocating for the rights and dignity of all individuals. It promotes respect for human dignity and diversity."
+    },
+    {
+      "question": "What are the cultural implications of education?",
+      "answer": "Education influences cultural identity, values, and traditions by shaping individuals' perspectives, beliefs, and behaviors. It plays a key role in preserving cultural heritage, promoting cultural diversity, and fostering intercultural understanding."
+    },
+    {
+      "question": "How does education contribute to personal fulfillment and happiness?",
+      "answer": "Education contributes to personal fulfillment and happiness by fostering self-discovery, intellectual growth, and meaningful relationships. It enables individuals to pursue their passions, achieve their goals, and lead fulfilling lives."
+    },
+    {
+      "question": "What are the global challenges that education can address?",
+      "answer": "Education can address a range of global challenges, including poverty, inequality, environmental degradation, conflict, disease, and social injustice. It is a powerful tool for sustainable development and positive social change."
+    },
+    {
+      "question": "How does education promote human rights and dignity?",
+      "answer": "Education promotes human rights and dignity by empowering individuals with knowledge, skills, and values to assert their rights, challenge injustices, and advocate for equality and social justice. It promotes respect for human dignity and diversity."
+    },
+    {
+      "question": "What are the implications of education on intergenerational mobility?",
+      "answer": "Education has profound implications for intergenerational mobility by breaking the cycle of poverty, providing opportunities for upward social mobility, and promoting equal access to education across generations."
+    },
+    {
+      "question": "How does education contribute to cultural innovation and creativity?",
+      "answer": "Education fosters cultural innovation and creativity by nurturing artistic expression, critical thinking, and cultural appreciation. It encourages the exploration of diverse perspectives, traditions, and artistic forms."
+    },
+    {
+      "question": "What are the implications of education on health equity?",
+      "answer": "Education is closely linked to health equity by promoting access to healthcare services, healthy lifestyles, and health literacy. It addresses social determinants of health and reduces disparities in health outcomes."
+    },
+    {
+      "question": "How does education promote social cohesion and community resilience?",
+      "answer": "Education promotes social cohesion and community resilience by fostering a sense of belonging, shared identity, and mutual support. It strengthens social networks, promotes trust, and enables communities to adapt to challenges."
+    },
+    {
+      "question": "What are the implications of education on economic inequality?",
+      "answer": "Education can either exacerbate or reduce economic inequality depending on factors such as access to quality education, educational attainment, and socioeconomic background. Investing in education is essential for reducing economic disparities and promoting inclusive growth."
+    },
+    {
+      "question": "How does education promote environmental justice?",
+      "answer": "Education promotes environmental justice by raising awareness about environmental injustices, advocating for equitable distribution of environmental benefits and burdens, and empowering marginalized communities to participate in decision-making processes."
+    },
+    {
+      "question": "What are the implications of education on social mobility?",
+      "answer": "Education has profound implications for social mobility by providing individuals with opportunities for upward mobility, access to better jobs, and improved social and economic outcomes. It is a key driver of social progress and economic development."
+    },
+    {
+      "question": "How does education contribute to community development?",
+      "answer": "Education contributes to community development by fostering human capital, social capital, and cultural capital within communities. It promotes civic engagement, local empowerment, and sustainable development."
+    },
+    {
+      "question": "What is the role of education in fostering resilience to global challenges?",
+      "answer": "Education plays a critical role in fostering resilience to global challenges by empowering individuals and communities with knowledge, skills, and resources to adapt, innovate, and overcome adversity. It promotes preparedness, risk reduction, and sustainable development."
+    },
+    {
+      "question": "How does education promote intercultural understanding and peace?",
+      "answer": "Education promotes intercultural understanding and peace by fostering empathy, respect for diversity, and dialogue among different cultural, religious, and ethnic groups. It cultivates attitudes and values conducive to peaceful coexistence and conflict resolution."
+    },
+    {
+      "question": "What are the implications of education on social cohesion?",
+      "answer": "Education is closely linked to social cohesion by promoting shared values, civic engagement, and a sense of belonging within societies. It strengthens social bonds, reduces social tensions, and promotes inclusive development."
+    },
+    {
+      "question": "How does education contribute to sustainable consumption and production?",
+      "answer": "Education contributes to sustainable consumption and production by promoting awareness about resource conservation, waste reduction, and environmentally-friendly lifestyles. It fosters responsible consumer behavior and encourages sustainable practices."
+    },
+    {
+      "question": "What are the implications of education on democratic governance?",
+      "answer": "Education is essential for democratic governance by promoting informed citizenship, active participation, and accountability. It fosters a culture of democracy, strengthens democratic institutions, and ensures responsive and inclusive governance."
+    },
+    {
+      "question": "How does education promote resilience to natural disasters?",
+      "answer": "Education promotes resilience to natural disasters by raising awareness, providing disaster preparedness training, and fostering community participation in disaster risk reduction efforts. It empowers individuals and communities to mitigate risks and respond effectively to emergencies."
+    },
+    {
+      "question": "What are the implications of education on mental health stigma?",
+      "answer": "Education can reduce mental health stigma by promoting awareness, understanding, and empathy towards individuals with mental health conditions. It challenges stereotypes, fosters supportive environments, and encourages help-seeking behaviors."
+    },
+    {
+      "question": "How does education contribute to cultural diversity?",
+      "answer": "Education contributes to cultural diversity by celebrating multiculturalism, promoting intercultural exchange, and preserving indigenous knowledge and languages. It enriches society by fostering respect for diverse cultural expressions and heritage."
+    },
+    {
+      "question": "What is the role of education in promoting social justice?",
+      "answer": "Education plays a crucial role in promoting social justice by addressing systemic inequalities, advocating for human rights, and empowering marginalized groups. It promotes equal opportunities, fairness, and dignity for all individuals."
+    },
+    {
+      "question": "How does education promote sustainable development?",
+      "answer": "Education promotes sustainable development by fostering knowledge, values, and skills needed to address global challenges such as poverty, inequality, and environmental degradation. It empowers individuals and communities to create a more just, equitable, and sustainable world."
+    },
+    {
+      "question": "What are the implications of education on peacebuilding?",
+      "answer": "Education is essential for peacebuilding by promoting understanding, tolerance, and reconciliation among conflicting parties. It addresses root causes of conflict, fosters intergroup dialogue, and builds a culture of peace and nonviolence."
+    },
+    {
+      "question": "How does education empower indigenous communities?",
+      "answer": "Education empowers indigenous communities by promoting cultural revitalization, language preservation, and self-determination. It provides opportunities for indigenous knowledge transmission, community development, and advocacy for indigenous rights."
+    },
+    {
+      "question": "What is the role of education in fostering social innovation?",
+      "answer": "Education plays a crucial role in fostering social innovation by nurturing creativity, problem-solving skills, and entrepreneurial mindset. It empowers individuals to develop innovative solutions to social challenges and create positive social change."
+    },
+    {
+      "question": "How does education contribute to environmental conservation?",
+      "answer": "Education contributes to environmental conservation by promoting awareness, instilling environmental values, and fostering sustainable behaviors. It empowers individuals to make informed decisions and take action to protect the environment."
+    },
+    {
+      "question": "What are the implications of education on human development?",
+      "answer": "Education has profound implications for human development by promoting health, well-being, and prosperity. It enhances cognitive abilities, social skills, and economic opportunities, enabling individuals to fulfill their potential and contribute to society."
+    },
+    {
+      "question": "How does education promote social cohesion in multicultural societies?",
+      "answer": "Education promotes social cohesion in multicultural societies by fostering intercultural understanding, respect for diversity, and inclusive citizenship. It creates opportunities for dialogue, cooperation, and shared identity formation."
+    },
+    {
+      "question": "What are the implications of education on social justice and equity?",
+      "answer": "Education promotes social justice and equity by providing equal access to learning opportunities, challenging discriminatory practices, and empowering marginalized groups. It fosters inclusive societies where all individuals have the chance to thrive."
+    },
+    {
+      "question": "How does education contribute to poverty reduction?",
+      "answer": "Education contributes to poverty reduction by empowering individuals with knowledge, skills, and opportunities to escape poverty. It increases earning potential, improves health outcomes, and fosters economic growth and social mobility."
+    },
+    {
+      "question": "What is the role of education in promoting cultural heritage preservation?",
+      "answer": "Education plays a vital role in promoting cultural heritage preservation by raising awareness, fostering appreciation, and transmitting traditional knowledge and practices to future generations. It ensures the continuity and vitality of cultural heritage."
+    },
+    {
+      "question": "How does education promote social inclusion?",
+      "answer": "Education promotes social inclusion by providing equal opportunities for learning and participation, regardless of socio-economic background, ethnicity, gender, or ability. It fosters a sense of belonging and reduces barriers to social mobility."
+    },
+    {
+      "question": "What are the implications of education on environmental justice?",
+      "answer": "Education promotes environmental justice by raising awareness about environmental injustices, advocating for equitable distribution of environmental benefits and burdens, and empowering marginalized communities to participate in decision-making processes."
+    },
+    {
+      "question": "How does education empower individuals with disabilities?",
+      "answer": "Education empowers individuals with disabilities by promoting inclusive practices, providing accommodations and support services, and fostering self-advocacy and independence. It enhances their quality of life and enables them to participate fully in society."
+    },
+    {
+      "question": "What are the environmental benefits of environmental education?",
+      "answer": "Environmental education promotes environmental stewardship, sustainability, and conservation by raising awareness about environmental issues, fostering a sense of responsibility towards nature, and promoting eco-friendly behaviors."
+    },
+    {
+      "question": "How does education promote social justice and equity?",
+      "answer": "Education promotes social justice and equity by challenging systemic inequalities, addressing discrimination and prejudice, and advocating for the rights and dignity of all individuals. It promotes respect for human dignity and diversity."
+    },
+    {
+      "question": "What are the cultural implications of education?",
+      "answer": "Education influences cultural identity, values, and traditions by shaping individuals' perspectives, beliefs, and behaviors. It plays a key role in preserving cultural heritage, promoting cultural diversity, and fostering intercultural understanding."
+    },
+    {
+      "question": "How does education contribute to personal fulfillment and happiness?",
+      "answer": "Education contributes to personal fulfillment and happiness by fostering self-discovery, intellectual growth, and meaningful relationships. It enables individuals to pursue their passions, achieve their goals, and lead fulfilling lives."
+    },
+    {
+      "question": "What are the global challenges that education can address?",
+      "answer": "Education can address a range of global challenges, including poverty, inequality, environmental degradation, conflict, disease, and social injustice. It is a powerful tool for sustainable development and positive social change."
+    },
+    {
+      "question": "How does education promote human rights and dignity?",
+      "answer": "Education promotes human rights and dignity by empowering individuals with knowledge, skills, and values to assert their rights, challenge injustices, and advocate for equality and social justice. It promotes respect for human dignity and diversity."
+    },
+    {
+      "question": "What are the implications of education on intergenerational mobility?",
+      "answer": "Education has profound implications for intergenerational mobility by breaking the cycle of poverty, providing opportunities for upward social mobility, and promoting equal access to education across generations."
+    },
+    {
+      "question": "How does education contribute to cultural innovation and creativity?",
+      "answer": "Education fosters cultural innovation and creativity by nurturing artistic expression, critical thinking, and cultural appreciation. It encourages the exploration of diverse perspectives, traditions, and artistic forms."
+    },
+    {
+      "question": "What are the implications of education on health equity?",
+      "answer": "Education is closely linked to health equity by promoting access to healthcare services, healthy lifestyles, and health literacy. It addresses social determinants of health and reduces disparities in health outcomes."
+    },
+    {
+      "question": "How does education promote social cohesion and community resilience?",
+      "answer": "Education promotes social cohesion and community resilience by fostering a sense of belonging, shared identity, and mutual support. It strengthens social networks, promotes trust, and enables communities to adapt to challenges."
+    },
+    {
+      "question": "What are the implications of education on economic inequality?",
+      "answer": "Education can either exacerbate or reduce economic inequality depending on factors such as access to quality education, educational attainment, and socioeconomic background. Investing in education is essential for reducing economic disparities and promoting inclusive growth."
+    },
+    {
+      "question": "How does education promote environmental justice?",
+      "answer": "Education promotes environmental justice by raising awareness about environmental injustices, advocating for equitable distribution of environmental benefits and burdens, and empowering marginalized communities to participate in decision-making processes."
+    },
+    {
+      "question": "What are the implications of education on social mobility?",
+      "answer": "Education has profound implications for social mobility by providing individuals with opportunities for upward mobility, access to better jobs, and improved social and economic outcomes. It is a key driver of social progress and economic development."
+    },
+    {
+      "question": "How does education contribute to community development?",
+      "answer": "Education contributes to community development by fostering human capital, social capital, and cultural capital within communities. It promotes civic engagement, local empowerment, and sustainable development."
+    },
+    {
+      "question": "What is the role of education in fostering resilience to global challenges?",
+      "answer": "Education plays a critical role in fostering resilience to global challenges by empowering individuals and communities with knowledge, skills, and resources to adapt, innovate, and overcome adversity. It promotes preparedness, risk reduction, and sustainable development."
+    },
+    {
+      "question": "How does education promote intercultural understanding and peace?",
+      "answer": "Education promotes intercultural understanding and peace by fostering empathy, respect for diversity, and dialogue among different cultural, religious, and ethnic groups. It cultivates attitudes and values conducive to peaceful coexistence and conflict resolution."
+    },
+    {
+      "question": "What are the implications of education on social cohesion?",
+      "answer": "Education is closely linked to social cohesion by promoting shared values, civic engagement, and a sense of belonging within societies. It strengthens social bonds, reduces social tensions, and promotes inclusive development."
+    },
+    {
+      "question": "How does education contribute to sustainable consumption and production?",
+      "answer": "Education contributes to sustainable consumption and production by promoting awareness about resource conservation, waste reduction, and environmentally-friendly lifestyles. It fosters responsible consumer behavior and encourages sustainable practices."
+    },
+    {
+      "question": "What are the implications of education on democratic governance?",
+      "answer": "Education is essential for democratic governance by promoting informed citizenship, active participation, and accountability. It fosters a culture of democracy, strengthens democratic institutions, and ensures responsive and inclusive governance."
+    },
+    {
+      "question": "How does education promote resilience to natural disasters?",
+      "answer": "Education promotes resilience to natural disasters by raising awareness, providing disaster preparedness training, and fostering community participation in disaster risk reduction efforts. It empowers individuals and communities to mitigate risks and respond effectively to emergencies."
+    },
+    {
+      "question": "What are the implications of education on mental health stigma?",
+      "answer": "Education can reduce mental health stigma by promoting awareness, understanding, and empathy towards individuals with mental health conditions. It challenges stereotypes, fosters supportive environments, and encourages help-seeking behaviors."
+    },
+    {
+      "question": "How does education contribute to cultural diversity?",
+      "answer": "Education contributes to cultural diversity by celebrating multiculturalism, promoting intercultural exchange, and preserving indigenous knowledge and languages. It enriches society by fostering respect for diverse cultural expressions and heritage."
+    },
+    {
+      "question": "What is the role of education in promoting social justice?",
+      "answer": "Education plays a crucial role in promoting social justice by addressing systemic inequalities, advocating for human rights, and empowering marginalized groups. It promotes equal opportunities, fairness, and dignity for all individuals."
+    },
+    {
+      "question": "How does education promote sustainable development?",
+      "answer": "Education promotes sustainable development by fostering knowledge, values, and skills needed to address global challenges such as poverty, inequality, and environmental degradation. It empowers individuals and communities to create a more just, equitable, and sustainable world."
+    },
+    {
+      "question": "What are the implications of education on peacebuilding?",
+      "answer": "Education is essential for peacebuilding by promoting understanding, tolerance, and reconciliation among conflicting parties. It addresses root causes of conflict, fosters intergroup dialogue, and builds a culture of peace and nonviolence."
+    },
+    {
+      "question": "How does education empower indigenous communities?",
+      "answer": "Education empowers indigenous communities by promoting cultural revitalization, language preservation, and self-determination. It provides opportunities for indigenous knowledge transmission, community development, and advocacy for indigenous rights."
+    },
+    {
+      "question": "What is the role of education in fostering social innovation?",
+      "answer": "Education plays a crucial role in fostering social innovation by nurturing creativity, problem-solving skills, and entrepreneurial mindset. It empowers individuals to develop innovative solutions to social challenges and create positive social change."
+    },
+    {
+      "question": "How does education contribute to environmental conservation?",
+      "answer": "Education contributes to environmental conservation by promoting awareness, instilling environmental values, and fostering sustainable behaviors. It empowers individuals to make informed decisions and take action to protect the environment."
+    },
+    {
+      "question": "What are the implications of education on human development?",
+      "answer": "Education has profound implications for human development by promoting health, well-being, and prosperity. It enhances cognitive abilities, social skills, and economic opportunities, enabling individuals to fulfill their potential and contribute to society."
+    },
+    {
+      "question": "How does education promote social cohesion in multicultural societies?",
+      "answer": "Education promotes social cohesion in multicultural societies by fostering intercultural understanding, respect for diversity, and inclusive citizenship. It creates opportunities for dialogue, cooperation, and shared identity formation."
+    },
+    {
+      "question": "What is the atomic number and atomic mass of carbon?",
+      "answer": "Atomic number: 6, Atomic mass: 12.01"
+    },
+    {
+      "question": "Where is sodium located on the periodic table?",
+      "answer": "Sodium is located in group 1 and period 3."
+    },
+    {
+      "question": "What is the balanced chemical equation for the reaction between hydrogen and oxygen?",
+      "answer": "2H2 + O2 -> 2H2O"
+    },
+    {
+      "question": "What type of bond is formed between sodium and chlorine?",
+      "answer": "Ionic bond"
+    },
+    {
+      "question": "How many moles of water are produced from 18 grams of methane (CH4)?",
+      "answer": "1 mole"
+    },
+    {
+      "question": "At what temperature does water change from a liquid to a gas?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molarity of a solution containing 0.5 moles of NaCl in 2 liters of solution?",
+      "answer": "0.25 M"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the pressure exerted by oxygen at 25\u00c2\u00b0C and 2 liters?",
+      "answer": "0.083 atm"
+    },
+    {
+      "question": "What is the change in enthalpy for the reaction between hydrogen and oxygen?",
+      "answer": "\u00ce\u201dH = -483.6 kJ/mol"
+    },
+    {
+      "question": "What is the structure of DNA?",
+      "answer": "Double helix"
+    },
+    {
+      "question": "What analytical technique is used to analyze organic compounds?",
+      "answer": "GC-MS (Gas Chromatography-Mass Spectrometry)"
+    },
+    {
+      "question": "What is the decay product of Uranium-238?",
+      "answer": "Thorium-234"
+    },
+    {
+      "question": "What is the functional group present in ethanol?",
+      "answer": "Alcohol"
+    },
+    {
+      "question": "What is the rate constant for the reaction between hydrogen and oxygen?",
+      "answer": "k = 0.00001"
+    },
+    {
+      "question": "What is the melting point of gold?",
+      "answer": "1064\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 2.87"
+    },
+    {
+      "question": "What type of bond is formed between hydrogen and oxygen in water?",
+      "answer": "Covalent bond"
+    },
+    {
+      "question": "What is the enthalpy change for the combustion of methane (CH4)?",
+      "answer": "\u00ce\u201dH = -890 kJ/mol"
+    },
+    {
+      "question": "What is the structure of benzene?",
+      "answer": "Hexagonal ring"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid (HF)?",
+      "answer": "pH = 2.14"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "answer": "0\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of carbon dioxide (CO2)?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of ammonia?",
+      "answer": "NH3"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 2.99"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.8\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water at 25\u00c2\u00b0C?",
+      "answer": "0.997 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the molecular weight of oxygen?",
+      "answer": "16 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of sodium hydroxide (NaOH)?",
+      "answer": "pH = 13"
+    },
+    {
+      "question": "What is the molecular formula of carbon monoxide?",
+      "answer": "CO"
+    },
+    {
+      "question": "What is the structure of ethane?",
+      "answer": "CH3CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of nitric acid (HNO3)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfur?",
+      "answer": "444.6\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of air at sea level?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of iron?",
+      "answer": "1538\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular weight of nitrogen?",
+      "answer": "14.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the structure of propane?",
+      "answer": "CH3CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sodium hydroxide (NaOH)?",
+      "answer": "pH = 12"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.9\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of ethylene?",
+      "answer": "C2H4"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of lead?",
+      "answer": "327.5\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of oxygen?",
+      "answer": "O2"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 2.87"
+    },
+    {
+      "question": "What is the boiling point of aluminum?",
+      "answer": "2467\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of aluminum?",
+      "answer": "2.70 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid (HF)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the freezing point of ethanol?",
+      "answer": "-114.1\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of oxygen?",
+      "answer": "32 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of nitrogen?",
+      "answer": "N2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of nitric acid (HNO3)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfuric acid?",
+      "answer": "337\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of iron?",
+      "answer": "7.87 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the molecular weight of hydrogen?",
+      "answer": "1.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the structure of butane?",
+      "answer": "CH3CH2CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the molecular weight of carbon dioxide?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.8\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of air at sea level?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of iron?",
+      "answer": "1538\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular weight of nitrogen?",
+      "answer": "14.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the structure of propane?",
+      "answer": "CH3CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sodium hydroxide (NaOH)?",
+      "answer": "pH = 12"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.9\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of ethylene?",
+      "answer": "C2H4"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of lead?",
+      "answer": "327.5\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of oxygen?",
+      "answer": "O2"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 2.87"
+    },
+    {
+      "question": "What is the boiling point of aluminum?",
+      "answer": "2467\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of aluminum?",
+      "answer": "2.70 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid (HF)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the freezing point of ethanol?",
+      "answer": "-114.1\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of oxygen?",
+      "answer": "32 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of nitrogen?",
+      "answer": "N2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of nitric acid (HNO3)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfuric acid?",
+      "answer": "337\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of iron?",
+      "answer": "7.87 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the molecular weight of hydrogen?",
+      "answer": "1.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the structure of butane?",
+      "answer": "CH3CH2CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the molecular weight of carbon dioxide?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.8\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of air at sea level?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of iron?",
+      "answer": "1538\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular weight of nitrogen?",
+      "answer": "14.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the structure of propane?",
+      "answer": "CH3CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sodium hydroxide (NaOH)?",
+      "answer": "pH = 12"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.9\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of ethylene?",
+      "answer": "C2H4"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of lead?",
+      "answer": "327.5\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of oxygen?",
+      "answer": "O2"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 2.87"
+    },
+    {
+      "question": "What is the boiling point of aluminum?",
+      "answer": "2467\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of aluminum?",
+      "answer": "2.70 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid (HF)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the freezing point of ethanol?",
+      "answer": "-114.1\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of oxygen?",
+      "answer": "32 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of nitrogen?",
+      "answer": "N2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of nitric acid (HNO3)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfuric acid?",
+      "answer": "337\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of iron?",
+      "answer": "7.87 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the molecular weight of hydrogen?",
+      "answer": "1.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the structure of butane?",
+      "answer": "CH3CH2CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the molecular weight of carbon dioxide?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.8\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of air at sea level?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of iron?",
+      "answer": "1538\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular weight of nitrogen?",
+      "answer": "14.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid (HCl)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the structure of propane?",
+      "answer": "CH3CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sodium hydroxide (NaOH)?",
+      "answer": "pH = 12"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.9\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of ethylene?",
+      "answer": "C2H4"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of lead?",
+      "answer": "327.5\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of oxygen?",
+      "answer": "O2"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of acetic acid (CH3COOH)?",
+      "answer": "pH = 2.87"
+    },
+    {
+      "question": "What is the boiling point of aluminum?",
+      "answer": "2467\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of aluminum?",
+      "answer": "2.70 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid (HF)?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the freezing point of ethanol?",
+      "answer": "-114.1\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of oxygen?",
+      "answer": "32 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of nitrogen?",
+      "answer": "N2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of nitric acid (HNO3)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfuric acid?",
+      "answer": "337\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of iron?",
+      "answer": "7.87 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the molecular weight of hydrogen?",
+      "answer": "1.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the structure of butane?",
+      "answer": "CH3CH2CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sulfuric acid (H2SO4)?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the atomic number of hydrogen?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the chemical symbol for helium?",
+      "answer": "He"
+    },
+    {
+      "question": "How many valence electrons does carbon have?",
+      "answer": "4"
+    },
+    {
+      "question": "What is the most abundant element in the Earth's crust?",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "H2O"
+    },
+    {
+      "question": "What is the pH of a neutral solution?",
+      "answer": "7"
+    },
+    {
+      "question": "What is the common name for sodium chloride?",
+      "answer": "Table salt"
+    },
+    {
+      "question": "How many elements are in the periodic table?",
+      "answer": "118"
+    },
+    {
+      "question": "What is the atomic number of iron?",
+      "answer": "26"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the chemical formula for glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the oxidation state of oxygen in H2O2?",
+      "answer": "-1"
+    },
+    {
+      "question": "What is the molar mass of carbon dioxide?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the freezing point of water in Kelvin?",
+      "answer": "273.15 K"
+    },
+    {
+      "question": "What is the most electronegative element?",
+      "answer": "Fluorine"
+    },
+    {
+      "question": "What is the atomic mass of hydrogen?",
+      "answer": "1.008 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular shape of methane?",
+      "answer": "Tetrahedral"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+    },
+    {
+      "question": "What is the atomic mass of oxygen?",
+      "answer": "15.999 g/mol"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of ammonia?",
+      "answer": "NH3"
+    },
+    {
+      "question": "What is the density of air at sea level?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the electron configuration of nitrogen?",
+      "answer": "1s2 2s2 2p3"
+    },
+    {
+      "question": "What is the chemical formula for nitric acid?",
+      "answer": "HNO3"
+    },
+    {
+      "question": "What is the molecular weight of methane?",
+      "answer": "16.04 g/mol"
+    },
+    {
+      "question": "What is the atomic number of silicon?",
+      "answer": "14"
+    },
+    {
+      "question": "What is the molecular formula of aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.9\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of ethylene?",
+      "answer": "C2H4"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of acetic acid?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of lead?",
+      "answer": "327.5\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of oxygen?",
+      "answer": "O2"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of acetic acid?",
+      "answer": "pH = 2.87"
+    },
+    {
+      "question": "What is the boiling point of aluminum?",
+      "answer": "2467\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of aluminum?",
+      "answer": "2.70 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the freezing point of ethanol?",
+      "answer": "-114.1\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of oxygen?",
+      "answer": "32 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of nitrogen?",
+      "answer": "N2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of nitric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfuric acid?",
+      "answer": "337\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of iron?",
+      "answer": "7.87 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the molecular weight of hydrogen?",
+      "answer": "1.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of sulfuric acid?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the molecular formula of hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the structure of butane?",
+      "answer": "CH3CH2CH2CH3"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sulfuric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrofluoric acid?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the freezing point of ethanol?",
+      "answer": "-114.1\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the mass of one mole of oxygen?",
+      "answer": "32 g/mol"
+    },
+    {
+      "question": "What is the molecular formula of nitrogen?",
+      "answer": "N2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of nitric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of sulfuric acid?",
+      "answer": "337\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of iron?",
+      "answer": "7.87 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the molecular weight of nitrogen gas?",
+      "answer": "28.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.9\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of ethylene?",
+      "answer": "C2H4"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.02 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of acetic acid?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the melting point of lead?",
+      "answer": "327.5\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of oxygen?",
+      "answer": "O2"
+    },
+    {
+      "question": "What is the molecular weight of ammonia?",
+      "answer": "17.03 g/mol"
+    },
+    {
+      "question": "What is the atomic number of copper?",
+      "answer": "29"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of sulfuric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the density of water?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the molecular weight of methane?",
+      "answer": "16.04 g/mol"
+    },
+    {
+      "question": "What is the atomic number of silicon?",
+      "answer": "14"
+    },
+    {
+      "question": "What is the chemical formula for aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the boiling point of hydrochloric acid?",
+      "answer": "83.45\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "H2O"
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "answer": "6"
+    },
+    {
+      "question": "What is the symbol for iron?",
+      "answer": "Fe"
+    },
+    {
+      "question": "What is the pH of a neutral solution?",
+      "answer": "7"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the molecular formula of ethanol?",
+      "answer": "C2H5OH"
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "answer": "K"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the atomic number of oxygen?",
+      "answer": "8"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the chemical formula for ammonia?",
+      "answer": "NH3"
+    },
+    {
+      "question": "What is the atomic mass of helium?",
+      "answer": "4.0026 u"
+    },
+    {
+      "question": "What is the molecular weight of carbon dioxide?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "answer": "Na"
+    },
+    {
+      "question": "What is the molarity of a solution with 1 mole of solute dissolved in 1 liter of solvent?",
+      "answer": "1 M"
+    },
+    {
+      "question": "What is the common name for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the chemical formula for glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the atomic number of hydrogen?",
+      "answer": "1"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answer": "Ag"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.015 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for carbon monoxide?",
+      "answer": "CO"
+    },
+    {
+      "question": "What is the atomic mass of nitrogen?",
+      "answer": "14.007 u"
+    },
+    {
+      "question": "What is the pH of a solution with a hydrogen ion concentration of 1 \u00c3\u2014 10^(-3) M?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the molecular formula of aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the density of water at 4\u00c2\u00b0C?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of acetic acid?",
+      "answer": "CH3COOH"
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "answer": "Pb"
+    },
+    {
+      "question": "What is the atomic number of sodium?",
+      "answer": "11"
+    },
+    {
+      "question": "What is the molecular weight of acetic acid?",
+      "answer": "60.05 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for nitric acid?",
+      "answer": "HNO3"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.73\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the chemical symbol for calcium?",
+      "answer": "Ca"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular weight of sulfuric acid?",
+      "answer": "98.08 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide?",
+      "answer": "NaOH"
+    },
+    {
+      "question": "What is the atomic mass of potassium?",
+      "answer": "39.0983 u"
+    },
+    {
+      "question": "What is the molecular formula of formaldehyde?",
+      "answer": "CH2O"
+    },
+    {
+      "question": "What is the chemical symbol for carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the molar mass of oxygen gas (O2)?",
+      "answer": "32.00 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrochloric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the chemical formula for sulfur dioxide?",
+      "answer": "SO2"
+    },
+    {
+      "question": "What is the atomic number of iron?",
+      "answer": "26"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for chlorine?",
+      "answer": "Cl"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.79\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of benzene?",
+      "answer": "C6H6"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the density of air at room temperature?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular weight of carbon monoxide?",
+      "answer": "28.01 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen chloride?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the atomic mass of magnesium?",
+      "answer": "24.305 u"
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the chemical symbol for copper?",
+      "answer": "Cu"
+    },
+    {
+      "question": "What is the molar mass of sulfur?",
+      "answer": "32.06 g/mol"
+    },
+    {
+      "question": "What is the pH of a solution with a hydroxide ion concentration of 1 \u00c3\u2014 10^(-10) M?",
+      "answer": "pH = 4"
+    },
+    {
+      "question": "What is the molecular weight of sodium chloride?",
+      "answer": "58.44 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the atomic number of nitrogen?",
+      "answer": "7"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answer": "Ag"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.015 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for carbon monoxide?",
+      "answer": "CO"
+    },
+    {
+      "question": "What is the atomic mass of nitrogen?",
+      "answer": "14.007 u"
+    },
+    {
+      "question": "What is the pH of a solution with a hydrogen ion concentration of 1 \u00c3\u2014 10^(-3) M?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the molecular formula of aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the density of water at 4\u00c2\u00b0C?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of acetic acid?",
+      "answer": "CH3COOH"
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "answer": "Pb"
+    },
+    {
+      "question": "What is the atomic number of sodium?",
+      "answer": "11"
+    },
+    {
+      "question": "What is the molecular weight of acetic acid?",
+      "answer": "60.05 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for nitric acid?",
+      "answer": "HNO3"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.73\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the chemical symbol for calcium?",
+      "answer": "Ca"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular weight of sulfuric acid?",
+      "answer": "98.08 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide?",
+      "answer": "NaOH"
+    },
+    {
+      "question": "What is the atomic mass of potassium?",
+      "answer": "39.0983 u"
+    },
+    {
+      "question": "What is the molecular formula of formaldehyde?",
+      "answer": "CH2O"
+    },
+    {
+      "question": "What is the chemical symbol for carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the molar mass of oxygen gas (O2)?",
+      "answer": "32.00 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrochloric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the chemical formula for sulfur dioxide?",
+      "answer": "SO2"
+    },
+    {
+      "question": "What is the atomic number of iron?",
+      "answer": "26"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for chlorine?",
+      "answer": "Cl"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.79\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of benzene?",
+      "answer": "C6H6"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the density of air at room temperature?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular weight of carbon monoxide?",
+      "answer": "28.01 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen chloride?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the atomic mass of magnesium?",
+      "answer": "24.305 u"
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the chemical symbol for copper?",
+      "answer": "Cu"
+    },
+    {
+      "question": "What is the molar mass of sulfur?",
+      "answer": "32.06 g/mol"
+    },
+    {
+      "question": "What is the pH of a solution with a hydroxide ion concentration of 1 \u00c3\u2014 10^(-10) M?",
+      "answer": "pH = 4"
+    },
+    {
+      "question": "What is the molecular weight of sodium chloride?",
+      "answer": "58.44 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the atomic number of nitrogen?",
+      "answer": "7"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answer": "Ag"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.015 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for carbon monoxide?",
+      "answer": "CO"
+    },
+    {
+      "question": "What is the atomic mass of nitrogen?",
+      "answer": "14.007 u"
+    },
+    {
+      "question": "What is the pH of a solution with a hydrogen ion concentration of 1 \u00c3\u2014 10^(-3) M?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the molecular formula of aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the density of water at 4\u00c2\u00b0C?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of acetic acid?",
+      "answer": "CH3COOH"
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "answer": "Pb"
+    },
+    {
+      "question": "What is the atomic number of sodium?",
+      "answer": "11"
+    },
+    {
+      "question": "What is the molecular weight of acetic acid?",
+      "answer": "60.05 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for nitric acid?",
+      "answer": "HNO3"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.73\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the chemical symbol for calcium?",
+      "answer": "Ca"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular weight of sulfuric acid?",
+      "answer": "98.08 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide?",
+      "answer": "NaOH"
+    },
+    {
+      "question": "What is the atomic mass of potassium?",
+      "answer": "39.0983 u"
+    },
+    {
+      "question": "What is the molecular formula of formaldehyde?",
+      "answer": "CH2O"
+    },
+    {
+      "question": "What is the chemical symbol for carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the molar mass of oxygen gas (O2)?",
+      "answer": "32.00 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrochloric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the chemical formula for sulfur dioxide?",
+      "answer": "SO2"
+    },
+    {
+      "question": "What is the atomic number of iron?",
+      "answer": "26"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for chlorine?",
+      "answer": "Cl"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.79\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of benzene?",
+      "answer": "C6H6"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the density of air at room temperature?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular weight of carbon monoxide?",
+      "answer": "28.01 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen chloride?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the atomic mass of magnesium?",
+      "answer": "24.305 u"
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the chemical symbol for copper?",
+      "answer": "Cu"
+    },
+    {
+      "question": "What is the molar mass of sulfur?",
+      "answer": "32.06 g/mol"
+    },
+    {
+      "question": "What is the pH of a solution with a hydroxide ion concentration of 1 \u00c3\u2014 10^(-10) M?",
+      "answer": "pH = 4"
+    },
+    {
+      "question": "What is the molecular weight of sodium chloride?",
+      "answer": "58.44 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "answer": "CH4"
+    },
+    {
+      "question": "What is the atomic number of nitrogen?",
+      "answer": "7"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answer": "Ag"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.015 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for carbon monoxide?",
+      "answer": "CO"
+    },
+    {
+      "question": "What is the atomic mass of nitrogen?",
+      "answer": "14.007 u"
+    },
+    {
+      "question": "What is the pH of a solution with a hydrogen ion concentration of 1 \u00c3\u2014 10^(-3) M?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the molecular formula of aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the density of water at 4\u00c2\u00b0C?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of acetic acid?",
+      "answer": "CH3COOH"
+    },
+    {
+      "question": "What is the chemical symbol for lead?",
+      "answer": "Pb"
+    },
+    {
+      "question": "What is the atomic number of sodium?",
+      "answer": "11"
+    },
+    {
+      "question": "What is the molecular weight of acetic acid?",
+      "answer": "60.05 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for nitric acid?",
+      "answer": "HNO3"
+    },
+    {
+      "question": "What is the boiling point of mercury?",
+      "answer": "356.73\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the chemical symbol for calcium?",
+      "answer": "Ca"
+    },
+    {
+      "question": "What is the density of gold?",
+      "answer": "19.32 g/cm^3"
+    },
+    {
+      "question": "What is the molecular weight of sulfuric acid?",
+      "answer": "98.08 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide?",
+      "answer": "NaOH"
+    },
+    {
+      "question": "What is the atomic mass of potassium?",
+      "answer": "39.0983 u"
+    },
+    {
+      "question": "What is the molecular formula of formaldehyde?",
+      "answer": "CH2O"
+    },
+    {
+      "question": "What is the chemical symbol for carbon dioxide?",
+      "answer": "CO2"
+    },
+    {
+      "question": "What is the molar mass of oxygen gas (O2)?",
+      "answer": "32.00 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.01M solution of hydrochloric acid?",
+      "answer": "pH = 2"
+    },
+    {
+      "question": "What is the chemical formula for sulfur dioxide?",
+      "answer": "SO2"
+    },
+    {
+      "question": "What is the atomic number of iron?",
+      "answer": "26"
+    },
+    {
+      "question": "What is the molecular weight of carbon?",
+      "answer": "12.01 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for chlorine?",
+      "answer": "Cl"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.79\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the molecular formula of benzene?",
+      "answer": "C6H6"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "answer": "H2SO4"
+    },
+    {
+      "question": "What is the density of air at room temperature?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular weight of carbon monoxide?",
+      "answer": "28.01 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen chloride?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the atomic mass of magnesium?",
+      "answer": "24.305 u"
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "What is the chemical symbol for copper?",
+      "answer": "Cu"
+    },
+    {
+      "question": "What is the molar mass of sulfur?",
+      "answer": "32.06 g/mol"
+    },
+    {
+      "question": "What is the pH of a solution with a hydroxide ion concentration of 1 \u00c3\u2014 10^(-10) M?",
+      "answer": "pH = 4"
+    },
+    {
+      "question": "What is the molecular weight of sodium chloride?",
+      "answer": "58.44 g/mol"
+    },
+    {
+      "question": "What is the molar mass of carbon dioxide?",
+      "answer": "44.01 g/mol"
+    },
+    {
+      "question": "What is the pH of a 0.1M solution of hydrochloric acid?",
+      "answer": "pH = 1"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen peroxide?",
+      "answer": "H2O2"
+    },
+    {
+      "question": "What is the atomic number of calcium?",
+      "answer": "20"
+    },
+    {
+      "question": "What is the molecular weight of sulfur dioxide?",
+      "answer": "64.07 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "answer": "K"
+    },
+    {
+      "question": "What is the boiling point of ethanol?",
+      "answer": "78.37\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical formula for sodium chloride?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the atomic mass of hydrogen?",
+      "answer": "1.008 u"
+    },
+    {
+      "question": "What is the molecular formula of ammonia?",
+      "answer": "NH3"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+    },
+    {
+      "question": "What is the density of air at standard conditions?",
+      "answer": "1.225 kg/m^3"
+    },
+    {
+      "question": "What is the molecular weight of nitric acid?",
+      "answer": "63.01 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for carbon tetrachloride?",
+      "answer": "CCl4"
+    },
+    {
+      "question": "What is the atomic number of helium?",
+      "answer": "2"
+    },
+    {
+      "question": "What is the pH of a 0.001M solution of hydrochloric acid?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the molecular weight of acetylsalicylic acid (aspirin)?",
+      "answer": "180.16 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for sulfur hexafluoride?",
+      "answer": "SF6"
+    },
+    {
+      "question": "What is the boiling point of nitrogen?",
+      "answer": "-195.79\u00c2\u00b0C"
+    },
+    {
+      "question": "What is the chemical symbol for phosphorus?",
+      "answer": "P"
+    },
+    {
+      "question": "What is the density of mercury at room temperature?",
+      "answer": "13.6 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of citric acid?",
+      "answer": "C6H8O7"
+    },
+    {
+      "question": "What is the chemical formula for hydrogen sulfide?",
+      "answer": "H2S"
+    },
+    {
+      "question": "What is the atomic mass of neon?",
+      "answer": "20.1797 u"
+    },
+    {
+      "question": "What is the molecular weight of sodium bicarbonate (baking soda)?",
+      "answer": "84.01 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for phosphoric acid?",
+      "answer": "H3PO4"
+    },
+    {
+      "question": "What is the molar mass of ethanol?",
+      "answer": "46.07 g/mol"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answer": "Ag"
+    },
+    {
+      "question": "What is the molecular weight of water?",
+      "answer": "18.015 g/mol"
+    },
+    {
+      "question": "What is the chemical formula for carbon monoxide?",
+      "answer": "CO"
+    },
+    {
+      "question": "What is the atomic mass of nitrogen?",
+      "answer": "14.007 u"
+    },
+    {
+      "question": "What is the pH of a solution with a hydrogen ion concentration of 1 \u00c3\u2014 10^(-3) M?",
+      "answer": "pH = 3"
+    },
+    {
+      "question": "What is the molecular formula of aspirin?",
+      "answer": "C9H8O4"
+    },
+    {
+      "question": "What is the chemical formula for hydrochloric acid?",
+      "answer": "HCl"
+    },
+    {
+      "question": "What is the density of water at 4\u00c2\u00b0C?",
+      "answer": "1 g/cm^3"
+    },
+    {
+      "question": "What is the molecular formula of acetic acid?",
+      "answer": "CH3COOH"
+    },
+    {
+      "question": "thanks",
+      "answer": "you are welcome. Tell me if you need anything"
+    },
+    {
+      "question": "",
+      "answer": ""
+    }
+  ]
+}

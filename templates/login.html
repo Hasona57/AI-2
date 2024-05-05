@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://lh4.googleusercontent.com/AwoO7CnIXEpNJqDK_xe1dK6NXLXX0ukfZqJTaHttAoH0Y1ntjvhjqQT2L3VaQXFGXlWYmvYB4dNEgI8RoLT0lLk=w1280" type="image/x-icon" />
+    <title>Login Page</title>
+    <style>
+        /* Fonts */
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+        /* Global Styles */
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ff7e5f, #feb47b, #ffedd6);
+            color: #333;
+            overflow: hidden;
+            height: auto;
+            overflow: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Chat Container */
+        #chat-container {
+            overflow-y: auto;
+            max-height: 400px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 20px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Chat Message */
+        .message {
+            margin-bottom: 15px;
+            padding: 15px 20px;
+            border-radius: 20px;
+            position: relative;
+            background-color: #f2f2f2;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            overflow-wrap: break-word;
+            transition: transform 0.3s ease;
+        }
+
+        .message strong {
+            color: #007bff;
+            font-weight: bold;
+        }
+
+        .message.bot {
+            background-color: #c2f0c2;
+        }
+
+        .message.user {
+            background-color: #ffddcc;
+        }
+
+        .message:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Input Container */
+        #input-container {
+            display: flex;
+            margin-top: 20px;
+        }
+
+        #user-input {
+            flex: 1;
+            padding: 15px;
+            border: none;
+            border-radius: 25px;
+            font-size: 16px;
+            background-color: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        #user-input:focus {
+            background-color: #fff;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+
+        button {
+            padding: 15px 30px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            outline: none;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            overflow: auto;
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 30px;
+            border-radius: 30px;
+            width: 80%;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 0.5s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .close {
+            color: #aaa;
+            font-size: 32px;
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            cursor: pointer;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+        }
+
+        /* Login Form */
+        .forms {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .form {
+            background-color: #fff;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+            width: 400px;
+            max-width: 80%;
+        }
+
+        .form h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: #333;
+        }
+
+        .form label {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 18px;
+            color: #666;
+        }
+
+        .form input[type="email"],
+        .form input[type="password"] {
+            margin-bottom: 20px;
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        .form button[type="submit"] {
+            margin-top: 20px;
+            width: 100%;
+            padding: 15px;
+            border: none;
+            border-radius: 25px;
+            font-size: 18px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .form button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        .form p.message {
+            color: red;
+            margin-top: 10px;
+        }
+
+        #registerMessage {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="forms">
+            <div id="loginForm" class="form active">
+                <h2>Login</h2>
+                <form action="/login" method="POST">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required><br>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required><br>
+                    <button type="submit">Login</button>
+                    <p class="message" id="message">{{ message }}</p>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function login() {
+            var email = document.getElementById('email').value;
+            var password = document.getElementById('password').value;
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/login', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var response = JSON.parse(xhr.responseText);
+                    window.location.href = response.redirect; // Redirect to index page
+                } else if (xhr.readyState == 4) {
+                    document.getElementById('message').innerText = "Invalid email or password.";
+                }
+            };
+            xhr.send('email=' + encodeURIComponent(email) + '&password=' + encodeURIComponent(password));
+        }
+    </script>
+</body>
+</html>
